@@ -1,0 +1,36 @@
+.h {
+    color: red;
+}
+
+.i {
+    color: blue;
+}
+
+.f {
+    color: green;
+}
+
+.r {
+    color: pink;
+}
+
+.i {
+    color: black;
+}
+
+.e {
+    color: Orange;
+}
+
+.n {
+    color: Violet;
+}
+
+.d {
+    color: Yellow;
+}
+
+body {
+    background-image: linear-gradient(blue, red);
+}
+
